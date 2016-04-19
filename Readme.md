@@ -10,7 +10,7 @@ If you want to run the latest (potentially unstable) code, you can do so by open
 
 Current priorities were fixed the crashed cause blank when installed Sketch Toolbox.
 
-Please feel free to get involved if you're interested. You can email me at ifonyo0408@gmail.com or find me on [Twitter](https://twitter.com/kingvictoryalex).
+Please feel free to get involved if you're interested. You can email me at mail(mailto:ifonyo0408@gmail.com) or find me on [Twitter](https://twitter.com/kingvictoryalex).
 
 Special thanks to:
 * [shahruz](https://github.com/shahruz)
