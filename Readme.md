@@ -2,7 +2,7 @@
 
 A super simple plugin manager for Sketch.app.
 
-If you just want to download and use the latest stable version of the app, visit http://ifonyo.com/sketchtoolbox.html.
+If you just want to download and use the latest stable version of the app, visit [Sketch Toolbox](http://ifonyo.com/Sketch Toolbox.zip).
 
  Note: If you experience any crashes after having previously used a version from GitHub, try clearing out the contents of ```~/Library/Application Support/Sketch Toolbox/``` and restarting.
 
